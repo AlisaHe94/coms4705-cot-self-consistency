@@ -7,8 +7,7 @@ Jiayi (Alisa) He · jh5111
 ```
 Paper/
 ├── Paper_Proposal__4705-2.pdf              # approved proposal
-├── code/
-│   └── cot_self_consistency_gsm8k.ipynb    # code
+├── cot_self_consistency_gsm8k.ipynb    # code
 │                                             
 ├── results/                                # JSON outputs
 └── README.md
